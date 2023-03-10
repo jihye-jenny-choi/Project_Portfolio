@@ -131,3 +131,39 @@ Moreover, We built portfolios based on the top 5%, 10%, 15%, 20%, 25%, and 30% p
     
 </details>
 <br>
+
+
+# 2. Data Collection
+
+### 2-1. Preparation for Data Sourcing
+
+##### 2-1-1. Identifying the full list of publicly traded healthcare companies in the US --> The list is downloaded from the NASDAQ website
+- More than 3000 healthcare companies registered: Scaled down to 425 by excluding penny stocks (closing stock price below $5) & certain subsectors
+
+##### 2-1-2. Selecting the API provider for sourcing stock information (daily) and financial statements (quarterly)
+
+### 2-2. Data Sourcing & Data Cleaning <a href="about.html">[View code]<a>
+
+<br>
+<br>
+
+  
+# 3. Modeling (Python)
+
+### 3-1. Ranking Financial Ratios
+- OLS (Statistics) <a href="about.html">[View code]<a>
+- EBM (Machine Learning) <a href="about.html">[View code]<a>
+- XGB (Machine Learning) <a href="about.html">[View code]<a>
+- Equal weight <a href="about.html">[View code]<a>
+
+
+### 3-2. Ranking Stocks <a href="about.html">[View code]<a>
+- OLS (Statistics)
+- EBM (Machine Learning)
+- XGB (Machine Learning)
+- Equal weight
+
+<br>
+  
+  
+  
