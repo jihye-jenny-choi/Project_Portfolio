@@ -123,7 +123,7 @@ After the overall stock rankings were calculated, the top 25% percentile stocks 
 <details>
   <summary><b><i>1-2-5. Backtesting (Performance Evaluation)</i></b>  (Click to see details)</summary>
 <br>    
-Backtesting is a process of testing whether the portfolio from the different models using past data has good performance in the future data. For instance, quarterly historical stock information is used in order to get the portfolio performance of the most recent quarter. If a user wants the portfolio performance for 2021Q1, the data prior to 2022Q1 is used to calculate the optimal investment portfolio. The invested amount is simply the total portfolio value of the last date of the previous quarter. (2021Q4 in this case.) Then the results of the performance is compared with the real stock data of 2021Q1. <br>
+Backtesting is a process of testing whether the portfolio from the different models using past data has good performance in the future data. For instance, quarterly historical stock information is used in order to get the portfolio performance of the most recent quarter. If a user wants the portfolio performance for 2021Q1, the data prior to 2022Q1 is used to calculate the optimal investment portfolio. The invested amount is simply the total portfolio value of the last date of the previous quarter. (2021Q4 in this case.) Then the results of the performance is compared with the real stock data of 2021Q1. <br><br>
     
 The results of the optimized models for OLS, XGB, EBM, and Equal Weight is realized in the backtesting stage and each model’s portfolio return rates are calculated on a daily/ monthly/ quarterly/ yearly basis for 10 years from 2012Q3 to 2022Q1. 
     
