@@ -143,7 +143,7 @@ Moreover, We built portfolios based on the top 5%, 10%, 15%, 20%, 25%, and 30% p
 
 ##### 2-1-2. Selecting the API provider for sourcing stock information (daily) and financial statements (quarterly)
 
-### 2-2. Data Sourcing & Data Cleaning <a href="about.html">[View code]<a>
+### 2-2. Data Sourcing & Data Cleaning <a href="[about.html](https://github.com/jihye-jenny-choi/Project_Portfolio/blob/main/Investment%20Portfolio/1_Data_collection_removenullvalue_Aug26%20(My%20edition).ipynb)">[View code]<a>
 
 <br>
 <br>
@@ -152,13 +152,13 @@ Moreover, We built portfolios based on the top 5%, 10%, 15%, 20%, 25%, and 30% p
 # 3. Modeling 1 (Python)
 
 ### 3-1. Ranking Financial Ratios
-- OLS (Statistics) <a href="about.html">[View code]<a>
-- EBM (Machine Learning) <a href="about.html">[View code]<a>
-- XGB (Machine Learning) <a href="about.html">[View code]<a>
+- OLS (Statistics) <a href="[about.html](https://github.com/jihye-jenny-choi/Project_Portfolio/blob/main/Investment%20Portfolio/2_ols.ipynb)">[View code]<a>
+- EBM (Machine Learning) <a href="[about.html](https://github.com/jihye-jenny-choi/Project_Portfolio/blob/main/Investment%20Portfolio/3_emb_xgb%20models.ipynb)">[View code]<a>
+- XGB (Machine Learning) <a href="[about.html](https://github.com/jihye-jenny-choi/Project_Portfolio/blob/main/Investment%20Portfolio/3_emb_xgb%20models.ipynb)">[View code]<a>
 - Equal weight <a href="about.html">[View code]<a>
 
 
-### 3-2. Ranking Stocks <a href="about.html">[View code]<a>
+### 3-2. Ranking Stocks <a href="[about.html](https://github.com/jihye-jenny-choi/Project_Portfolio/blob/main/Investment%20Portfolio/4_rankingscore_Aug22_25.ipynb)">[View code]<a>
 - OLS (Statistics)
 - EBM (Machine Learning)
 - XGB (Machine Learning)
@@ -170,7 +170,7 @@ Moreover, We built portfolios based on the top 5%, 10%, 15%, 20%, 25%, and 30% p
   
 # 4. Modeling 2 (Python) 
 
-### 4-1. Portfolio Optimization <a href="about.html">[View code]<a>
+### 4-1. Portfolio Optimization <a href="[about.html](https://github.com/jihye-jenny-choi/Project_Portfolio/blob/main/Investment%20Portfolio/5_backtesting_Aug24_25.ipynb)">[View code]<a>
 ##### 4-1-1. Modeling 
 - OLS (Statistics)
 - EBM (Machine Learning)
