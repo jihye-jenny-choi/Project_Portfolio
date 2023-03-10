@@ -8,7 +8,8 @@
 <details>
   <summary><b><i>1-2-1. Fundamental Analysis</i></b>  (Click to see details)</summary>
 <br>  
-The concept of Fundamental Analysis was adopted to rank stocks. Then, portfolio optimazation was conducted with top 25% ranked stocks. <br>
+The concept of Fundamental Analysis was adopted to rank stocks. Then, portfolio optimazation modeling was conducted with top 25% ranked stocks. 
+<br>
 
 Fundamental Analysis is a method of determining a stock's real or "fair market" value by examining related economic and financial factors. The financial ratios of a firm can infer the financial health (or fair market value) of the organization. If the fair market value (intrinsic value or true value) is higher than the market price, the stock is deemed undervalued, and a buy recommendation is given. On the other hand, if the fair market value is lower than the market price, the stock is deemed overvalued, and the recommendation might be not to buy or to sell if the stock is held. We used 17 financial ratios as the indicators to assess stocks for an investment. They also helped to downsize the number of stocks in healthcare for the portfolio optimization modeling. <br>
 
