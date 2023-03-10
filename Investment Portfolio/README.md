@@ -176,11 +176,9 @@ Moreover, We built portfolios based on the top 5%, 10%, 15%, 20%, 25%, and 30% p
 - EBM (Machine Learning)
 - XGB (Machine Learning)
 - Equal weight
-
-##### 4-1-2. Model Comparison & Selection 
     
 ### 4-2. Backgtesting 
-
+##### 4-2-1. Model Comparison & Selection 
 
 <br>
 <br>
@@ -192,7 +190,7 @@ Features included <a href="https://github.com/jihye-jenny-choi/Project_Portfolio
      
 - Portfolio performance
 - Breakdown of investment returns
-- Stock allocation in the quarterly portfolio
+- Stock allocations in the quarterly portfolio
 - Search for historical stock information 
   
 <br>  
