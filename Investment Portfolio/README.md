@@ -149,7 +149,7 @@ Moreover, We built portfolios based on the top 5%, 10%, 15%, 20%, 25%, and 30% p
 <br>
 
   
-# 3. Modeling (Python)
+# 3. Modeling 1 (Python)
 
 ### 3-1. Ranking Financial Ratios
 - OLS (Statistics) <a href="about.html">[View code]<a>
@@ -168,7 +168,7 @@ Moreover, We built portfolios based on the top 5%, 10%, 15%, 20%, 25%, and 30% p
 <br>
 
   
-# 4. Portfolio Optimization & Backgtesting (Python) 
+# 4. Modeling 2 (Python) 
 
 ### 4-1. Portfolio Optimization <a href="about.html">[View code]<a>
 ##### 4-1-1. Modeling 
