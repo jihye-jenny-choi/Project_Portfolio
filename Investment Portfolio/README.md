@@ -95,7 +95,7 @@ Financial ratios that the lower values considered better are:
 Each stock's values of 17 financial ratios were input for modeling. Besides, each ratio is ranked by the 4 different models (OLS, EMB, XGB, and equal weight) and the rankings of ratios were converted to a weight. Then, we multiplied the weight of a ratio with the value of ‘ratio ranking/ total stocks number’ to calculate the stock ranking score for that ratio. A stock ranking score is evaluated per ratio and per quarter for the 4 methods. As a result, each model has stocks ranked on a quarterly basis.
 
 ex)
-![image.png](attachment:image.png)
+![image](https://user-images.githubusercontent.com/126704155/224447995-426cc54e-2e85-45f0-9bda-6a8ef9ba723b.png)
 
 In addition, we assumed that the latest stock data reflects more information. So we gave the 50% weight to the performance from the most recent quarter and the remaining 50% weight to the performance from the past quarters. For example, in order to get the stock ranking for 2022Q1, we gave 50% weights on the stock ranking of 2021Q4 and 50% weights on the stock rankings from 2012Q2 to 2021Q3. 
 
