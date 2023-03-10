@@ -96,7 +96,6 @@ Each stock's values of 17 financial ratios were input for modeling. Besides, eac
 
 ex)
 ![image](https://user-images.githubusercontent.com/126704155/224449134-66a287c9-8ea5-49a6-937a-d27721cc0ed8.png)
-![image](https://user-images.githubusercontent.com/126704155/224448985-d3587bdb-8877-48c0-89c1-b000af7dc6ca.png)  
 
 In addition, we assumed that the latest stock data reflects more information. So we gave the 50% weight to the performance from the most recent quarter and the remaining 50% weight to the performance from the past quarters. For example, in order to get the stock ranking for 2022Q1, we gave 50% weights on the stock ranking of 2021Q4 and 50% weights on the stock rankings from 2012Q2 to 2021Q3. 
 
