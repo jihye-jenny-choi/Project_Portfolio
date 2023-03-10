@@ -131,6 +131,7 @@ Moreover, We built portfolios based on the top 5%, 10%, 15%, 20%, 25%, and 30% p
     
 </details>
 <br>
+<br>
 
 
 # 2. Data Collection
@@ -164,6 +165,35 @@ Moreover, We built portfolios based on the top 5%, 10%, 15%, 20%, 25%, and 30% p
 - Equal weight
 
 <br>
+<br>
+
+  
+# 4. Portfolio Optimization & Backgtesting (Python) 
+
+### 4-1. Portfolio Optimization <a href="about.html">[View code]<a>
+##### 4-1-1. Modeling 
+- OLS (Statistics)
+- EBM (Machine Learning)
+- XGB (Machine Learning)
+- Equal weight
+
+##### 4-1-2. Model Comparison & Selection 
+    
+### 4-2. Backgtesting 
+
+
+<br>
+<br>
   
   
+# 5. Dashboarding (Tableau)
+
+Features included <a href="https://github.com/jihye-jenny-choi/Project_Portfolio/blob/main/Investment%20Portfolio/Introduction%20to%20Dashboard%20Design%20of%20the%20Investment%20Model.ipynb">[View visualizations]<a>
+     
+- Portfolio performance
+- Breakdown of investment returns
+- Stock allocation in the quarterly portfolio
+- Search for historical stock information 
+  
+<br>  
   
