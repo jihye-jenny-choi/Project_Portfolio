@@ -151,14 +151,21 @@ Moreover, We built portfolios based on the top 5%, 10%, 15%, 20%, 25%, and 30% p
   
 # 3. Modeling 1 (Python)
 
-### 3-1. Ranking Financial Ratios
+### 3-1. Getting Weights of Financial Ratios
 - OLS (Statistics) <a href="https://github.com/jihye-jenny-choi/Project_Portfolio/blob/main/Investment%20Portfolio/2_ols.ipynb">[View code]<a>
 - EBM (Machine Learning) <a href="https://github.com/jihye-jenny-choi/Project_Portfolio/blob/main/Investment%20Portfolio/3_emb_xgb%20models.ipynb">[View code]<a>
 - XGB (Machine Learning) <a href="https://github.com/jihye-jenny-choi/Project_Portfolio/blob/main/Investment%20Portfolio/3_emb_xgb%20models.ipynb">[View code]<a>
 - Equal Weight
 
 
-### 3-2. Ranking Stocks <a href="https://github.com/jihye-jenny-choi/Project_Portfolio/blob/main/Investment%20Portfolio/4_rankingscore_Aug22_25.ipynb">[View code]<a>
+### 3-2. Ranking Financial Ratios <a href="https://github.com/jihye-jenny-choi/Project_Portfolio/blob/main/Investment%20Portfolio/4_rankingscore_Aug22_25.ipynb">[View code]<a>
+- OLS (Statistics) 
+- EBM (Machine Learning) 
+- XGB (Machine Learning) 
+- Equal Weight
+  
+  
+  ### 3-3. Ranking Stocks <a href="https://github.com/jihye-jenny-choi/Project_Portfolio/blob/main/Investment%20Portfolio/4_rankingscore_Aug22_25.ipynb">[View code]<a>
 - OLS (Statistics)
 - EBM (Machine Learning)
 - XGB (Machine Learning)
