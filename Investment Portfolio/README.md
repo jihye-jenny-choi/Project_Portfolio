@@ -165,7 +165,7 @@ Moreover, We built portfolios based on the top 5%, 10%, 15%, 20%, 25%, and 30% p
 - Equal Weight
   
   
-  ### 3-3. Ranking Stocks <a href="https://github.com/jihye-jenny-choi/Project_Portfolio/blob/main/Investment%20Portfolio/4_rankingscore_Aug22_25.ipynb">[View code]<a>
+### 3-3. Ranking Stocks <a href="https://github.com/jihye-jenny-choi/Project_Portfolio/blob/main/Investment%20Portfolio/4_rankingscore_Aug22_25.ipynb">[View code]<a>
 - OLS (Statistics)
 - EBM (Machine Learning)
 - XGB (Machine Learning)
