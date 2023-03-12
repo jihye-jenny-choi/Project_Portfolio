@@ -151,7 +151,7 @@ Moreover, We built portfolios based on the top 5%, 10%, 15%, 20%, 25%, and 30% p
   
 # 3. Modeling 1 (Python)
 
-### 3-1. Getting Weights of Financial Ratios
+### 3-1. Computing Weights of Financial Ratios
 - OLS (Statistics) <a href="https://github.com/jihye-jenny-choi/Project_Portfolio/blob/main/Investment%20Portfolio/2_ols.ipynb">[View code]<a>
 - EBM (Machine Learning) <a href="https://github.com/jihye-jenny-choi/Project_Portfolio/blob/main/Investment%20Portfolio/3_emb_xgb%20models.ipynb">[View code]<a>
 - XGB (Machine Learning) <a href="https://github.com/jihye-jenny-choi/Project_Portfolio/blob/main/Investment%20Portfolio/3_emb_xgb%20models.ipynb">[View code]<a>
