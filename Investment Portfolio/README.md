@@ -66,17 +66,6 @@ After the weight per ratio is identified for OLS, EMB, XGB, and Equal Weight, it
 Please note that the ratios have different standards for interpreting the values. Higher values are considered desirable for some ratios while lower values are considered desirable for the other ratios. For instance, a lower value is interpreted as better for D/E (Debt to Equity) ratio. Let’s say that stock A has a D/E value of 0.5 and stock B has that of 1.2. Then 0.5 is a more desirable number for D/E ratio. It was taken into considerations when ranking stocks using the ratios.
 
 Financial ratios that the higher values considered better are:
-- Price to Sales (P/S)
-- Price to Earning (P/E)
-- Price/Earnings to Growth (PEG)
-- Price to Book (P/B)
-- Price to Cash Flow (P/CF)
-- Price to Free Cash Flows (P/FCF)
-- Debt to Equity (D/E)
-- Price to Operating Cash Flows (P/OCF)
-
-
-Financial ratios that the lower values considered better are:
 - Profit Margin
 - Gross Profit Margin
 - Net Profit Margin
@@ -87,6 +76,17 @@ Financial ratios that the lower values considered better are:
 - Current (Liquidity ratio)
 - Quick (Liquidity ratio)
 
+
+Financial ratios that the lower values considered better are:
+- Price to Sales (P/S)
+- Price to Earning (P/E)
+- Price/Earnings to Growth (PEG)
+- Price to Book (P/B)
+- Price to Cash Flow (P/CF)
+- Price to Free Cash Flows (P/FCF)
+- Debt to Equity (D/E)
+- Price to Operating Cash Flows (P/OCF)
+  
 
 <br>
 
