@@ -1,5 +1,6 @@
 # Investment Portfolio project
 This project was to build an investment model that predicts the optimal combination of stocks in healthcare that yields the highest return. Our team leveraged various ideas including accounting, finance, mathematical, statistical, and machine learning approaches to build a quarterly investment portfolio model. Our model produces approximately $1.18M given that $1 is invested 10 years ago. The date range of the historical stock prices used is from 2012Q3 to 2022Q1.
+<br><br>
 
 
 # Project Flow
