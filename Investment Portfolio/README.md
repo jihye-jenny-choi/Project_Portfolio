@@ -175,9 +175,9 @@ Moreover, We built portfolios based on the top 5%, 10%, 15%, 20%, 25%, and 30% p
 <br>
 
   
-# 4. Modeling 2 (Python) 
+# 4. Modeling 2 (Python) <a href="https://github.com/jihye-jenny-choi/Project_Portfolio/blob/main/Investment%20Portfolio/5_backtesting_Aug24_25.ipynb">[View code]<a>
 
-### 4-1. Portfolio Optimization <a href="https://github.com/jihye-jenny-choi/Project_Portfolio/blob/main/Investment%20Portfolio/5_backtesting_Aug24_25.ipynb">[View code]<a>
+### 4-1. Portfolio Optimization 
 ##### 4-1-1. Modeling 
 - OLS (Statistics)
 - EBM (Machine Learning)
